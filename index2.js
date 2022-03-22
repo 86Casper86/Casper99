@@ -1,0 +1,22 @@
+"RootType": "saveMetadataContainer",
+    "Data": {
+        "metadata": {
+            "gameDefinition": "",
+            "activeQuests": "6B577A51814903CA",
+            "trackedQuestEntry": "quests/main_quest/prologue/q001_01_victor/megabuilding/go_to_jackie",
+            "trackedQuest": "LocKey#9464",
+            "mainQuest": "LocKey#9464",
+            "debugString": "",
+            "locationName": "LocKey#10963",
+            "playerPosition": {
+                "X": -1403.574951171875,
+                "Y": 1278.6561279296876,
+                "Z": 123.08241271972656
+            },
+            "playTime": 4227.6372089,
+            "playthroughTime": 4227.6372089,
+            "nextSavableEntityID": 9001654,
+            "nextNonSavableEntityID": 10007683,
+            "lifePath": "Nomad",
+            "bodyGender": "Male",
+            "brainGender": "Male",
